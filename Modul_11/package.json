@@ -1,0 +1,41 @@
+{
+  "name": "webcreator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/moriartyisntdead/webcreator.git"
+  },
+  "author": "Artem Ivasiuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/moriartyisntdead/webcreator/issues"
+  },
+  "homepage": "https://gitlab.com/moriartyisntdead/webcreator#readme",
+  "dependencies": {
+    "autoprefixer": "^9.5.1",
+    "bootstrap": "^4.3.1",
+    "cssnano": "^4.1.10",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.7.0",
+    "gulp-file-include": "^2.0.1",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2",
+    "gulp-util": "^3.0.8",
+    "gulp-watch": "^5.0.1",
+    "imagemin-pngquant": "^7.0.0",
+    "jquery": "^3.4.0"
+  },
+  "devDependencies": {
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.13.1"
+  }
+}
